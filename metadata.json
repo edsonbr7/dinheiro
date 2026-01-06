@@ -1,0 +1,5 @@
+{
+  "name": "Finanças Pro - Controle de Vendas",
+  "description": "Um aplicativo de gestão financeira completo para pequenos negócios, com controle de vendas diárias, histórico mensal e persistência de dados local.",
+  "requestFramePermissions": []
+}
